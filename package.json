@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/zip",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Stitch together two arrays by like-index",
   "main": "dist/src/zip.js",
   "types": "dist/src/zip.d.ts",
