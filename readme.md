@@ -32,6 +32,8 @@ console.log(zipWithA(b))
 //=>[ [ 3, 'a' ], [ 2, 'b' ], [ 1, 'c' ] ]
 ```
 
+Note that the output array will have the same length as `a`.
+
 ## Related
 
 - [small-array-zip](https://github.com/Olian04/small-array-zip)
